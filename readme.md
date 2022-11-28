@@ -1,0 +1,1 @@
+This repo is for my statistics class section exercises
